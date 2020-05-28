@@ -64,6 +64,11 @@
                 <input type="text" name="nama" class="form-control" id="exampleInputEmail1" placeholder="Masukan Nama">
               </div>
               <div class="form-group">
+                <label>Email</label>
+                <input type="email" name="email" class="form-control" id="exampleInputEmail1"
+                  placeholder="Masukan Email">
+              </div>
+              <div class="form-group">
                 <label>Alamat</label>
                 <textarea name='alamat' class="form-control" placeholder="Masukan Alamat"></textarea>
               </div>
